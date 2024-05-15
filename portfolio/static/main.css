@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.bg-black{
+    background-color: #363636;
+}
+
+.card-project{
+    border: 1px solid hwb(0 29% 69%);
+    cursor: pointer;
+}
